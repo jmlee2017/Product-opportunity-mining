@@ -1,0 +1,8 @@
+D:\workspace_vs2010\alchemyExample\alchemyExample\bin\Debug\sentimentAlchemy.exe.config
+D:\workspace_vs2010\alchemyExample\alchemyExample\bin\Debug\sentimentAlchemy.exe
+D:\workspace_vs2010\alchemyExample\alchemyExample\bin\Debug\sentimentAlchemy.pdb
+D:\workspace_vs2010\alchemyExample\alchemyExample\bin\Debug\sdk.dll
+D:\workspace_vs2010\alchemyExample\alchemyExample\bin\Debug\sdk.pdb
+D:\workspace_vs2010\alchemyExample\alchemyExample\obj\Debug\sentimentAlchemy.exe
+D:\workspace_vs2010\alchemyExample\alchemyExample\obj\Debug\sentimentAlchemy.pdb
+D:\workspace_vs2010\alchemyExample\alchemyExample\obj\Debug\sentimentAlchemy.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+D:\workspace_vs2010\alchemyExample\alchemyExample\bin\Debug\alchemyExample.exe.config
+D:\workspace_vs2010\alchemyExample\alchemyExample\bin\Debug\alchemyExample.exe
+D:\workspace_vs2010\alchemyExample\alchemyExample\bin\Debug\alchemyExample.pdb
+D:\workspace_vs2010\alchemyExample\alchemyExample\obj\Debug\alchemyExample.exe
+D:\workspace_vs2010\alchemyExample\alchemyExample\obj\Debug\alchemyExample.pdb
+D:\workspace_vs2010\alchemyExample\alchemyExample\obj\Debug\alchemyExample.csprojResolveAssemblyReference.cache
+D:\workspace_vs2010\alchemyExample\alchemyExample\bin\Debug\sdk.dll
+D:\workspace_vs2010\alchemyExample\alchemyExample\bin\Debug\sdk.pdb
